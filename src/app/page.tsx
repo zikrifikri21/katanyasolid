@@ -7,10 +7,10 @@ import React from "react";
 import { AiBrain03Icon, SoftwareLicenseIcon, NetworkIcon } from "./AiBrain03Icon";
 
 const demoItems = [
-  { link: "#", text: "Praktikum Fisika", image: "/assets/img/6.jpg" },
-  { link: "#", text: "Praktikum Biologi", image: "/assets/img/7.jpg" },
-  { link: "#", text: "Praktikum Kimia", image: "/assets/img/10.jpg" },
-  { link: "#", text: "War is Over", image: "/assets/img/9.jpg" },
+  { link: "#menu-item", text: "Praktikum Fisika", image: "/assets/img/6.jpg" },
+  { link: "#menu-item", text: "Praktikum Biologi", image: "/assets/img/7.jpg" },
+  { link: "#menu-item", text: "Praktikum Kimia", image: "/assets/img/10.jpg" },
+  { link: "#menu-item", text: "War is Over", image: "/assets/img/9.jpg" },
 ];
 export default function Home() {
   return (
