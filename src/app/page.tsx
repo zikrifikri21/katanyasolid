@@ -1,11 +1,7 @@
 "use client";
 
-import HeroSectionNew from "@/components/HeroSection";
-import { ScrollVelocity } from "./../components/ScrollVelocity";
-import Gallery from "@/components/Gallery";
-import FlowingMenu from "@/components/Kegiatan";
-import MemoriesSection from "@/components/MemoriesSection";
-import ParallaxSection from "@/components/ParallaxSection";
+import { HeroSectionNew, ScrollVelocity, Gallery, FlowingMenu, MemoriesSection, ParallaxSection } from "@/components";
+
 import Image from "next/image";
 import React from "react";
 import { AiBrain03Icon, SoftwareLicenseIcon, NetworkIcon } from "./AiBrain03Icon";
